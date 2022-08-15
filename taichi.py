@@ -22,8 +22,6 @@ def count_primes(n: int) -> int:
 
 
 
-
-
 time1=time.time()
 count_primes(100000)
 time2=time.time()
